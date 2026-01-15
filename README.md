@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I'm Hamza Patel, but people here also call me hamzapats!
 About Me<br>I’m a Computer Science Engineering student passionate about full-stack web development and exploring the world of Machine Learning & AI. I enjoy building real-world projects and continuously improving my problem-solving skills.<br><br>I'm currently working on<br>Full-stack MERN projects and machine learning models.<br><br>I'm looking to collaborate on<br>Web development projects, open-source contributions, and beginner-friendly ML/AI applications.<br><br>I'm looking for help with<br>Advanced machine learning concepts, model optimization, and research-oriented projects.<br><br>I'm currently learning<br>Machine Learning, AI tools, and improving my backend development skills.<br><br>Ask me about<br>MERN stack, basic ML concepts, web project development, or tech project ideas.
 
 
