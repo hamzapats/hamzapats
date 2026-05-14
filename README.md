@@ -50,7 +50,7 @@ Hey, I’m Hamza Patel, an engineering student who's into Web Development and Ma
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamzapats&theme=calm&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamzapats&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
