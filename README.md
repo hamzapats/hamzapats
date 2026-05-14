@@ -16,7 +16,7 @@
 
 ### About
 
-I’m Hamza Patel, a CSE student whos into Web Development and Machine Learning. When I’m not coding, you’ll probably find me on the tennis court, analyzing chess positions, or watching a football match. I’m always curious to learn and improve.
+Hey, I’m Hamza Patel, an engineering student who's into Web Development and Machine Learning. When I’m not coding, you’ll probably find me on the tennis court, analyzing chess positions, or watching a football match. I’m always curious to learn and improve.
 
 ---
 
@@ -56,7 +56,7 @@ I’m Hamza Patel, a CSE student whos into Web Development and Machine Learning.
 
 ---
 
-<a href="https://github.com/hamzapats">github.com/hamzapats</a></sub>
+<!-- <a href="https://github.com/hamzapats">github.com/hamzapats</a></sub> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0092ff&height=120&section=footer" width="100%" alt="Footer wave"/>
 
