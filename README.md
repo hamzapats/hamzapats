@@ -16,7 +16,7 @@
 
 I’m Hamza Patel, a CSE student whos into Web Development and Machine Learning. When I’m not coding, you’ll probably find me on the tennis court, analyzing chess positions, or watching a football match. I’m always curious to learn and improve.
 
-- ⌖ **Location** · Kolkata, India
+⌖ **Location** · Kolkata, India
 
 ### Tech Stack
 
@@ -36,10 +36,12 @@ I’m Hamza Patel, a CSE student whos into Web Development and Machine Learning.
 
 <img src="https://skillicons.dev/icons?i=git,vercel,vscode,docker&theme=dark" alt="DevOps & Cloud"/>
 
+<!-- 
 **AI / ML**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy,jupyter&theme=dark" alt="AI / ML"/>
 
+-->
 ---
 
 <a href="https://github.com/hamzapats">github.com/hamzapats</a></sub>
