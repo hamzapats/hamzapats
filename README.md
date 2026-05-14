@@ -4,8 +4,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-patel-zzz/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patelhamza46@gmail.com) [![Leetcode]()](https://leetcode.com/u/Hamza_Pats/) 
-![Profile Views](https://komarev.com/ghpvc/?username=hamzapats&color=06b6d4&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-patel-zzz/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patelhamza46@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hamza_Pats/)
 
 ![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-06b6d4?style=flat-square)
 
