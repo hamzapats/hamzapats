@@ -11,7 +11,9 @@
 </div>
 
 <div align="center">
-  
+
+---
+
 ### About
 
 I’m Hamza Patel, a CSE student whos into Web Development and Machine Learning. When I’m not coding, you’ll probably find me on the tennis court, analyzing chess positions, or watching a football match. I’m always curious to learn and improve.
@@ -42,6 +44,16 @@ I’m Hamza Patel, a CSE student whos into Web Development and Machine Learning.
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy,jupyter&theme=dark" alt="AI / ML"/>
 
 -->
+
+---
+### GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamzapats&theme=calm&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 ---
 
 <a href="https://github.com/hamzapats">github.com/hamzapats</a></sub>
