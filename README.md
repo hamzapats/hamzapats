@@ -28,15 +28,15 @@ Hey, I’m Hamza Patel, an engineering student who's into Web Development and Ma
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,postgres&theme=dark" alt="Backend & Databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb&theme=dark" alt="Backend & Databases"/>
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git,vercel,vscode,docker&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=git,vercel,vscode&theme=dark" alt="DevOps & Cloud"/>
 
 <!-- 
 **AI / ML**
