@@ -24,7 +24,7 @@ Hey, I’m Hamza Patel, an engineering student who's into Web Development and Ma
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,java&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" alt="Languages"/>
 
 **Frontend**
 
